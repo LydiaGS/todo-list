@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/todo-list/static/css/main.14af59cf.css",
+    "main.js": "/todo-list/static/js/main.8c39f524.js",
+    "static/js/787.a5cad257.chunk.js": "/todo-list/static/js/787.a5cad257.chunk.js",
+    "static/media/fleur_noir.jpg": "/todo-list/static/media/fleur_noir.5143d81d585b24a19ae8.jpg",
+    "static/media/dancing-script.woff": "/todo-list/static/media/dancing-script.7adb82850b27b7abff6b.woff",
+    "index.html": "/todo-list/index.html",
+    "main.14af59cf.css.map": "/todo-list/static/css/main.14af59cf.css.map",
+    "main.8c39f524.js.map": "/todo-list/static/js/main.8c39f524.js.map",
+    "787.a5cad257.chunk.js.map": "/todo-list/static/js/787.a5cad257.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.14af59cf.css",
+    "static/js/main.8c39f524.js"
+  ]
+}
